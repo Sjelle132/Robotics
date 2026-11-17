@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Robotics 34753 – Problem 11b: probing red smarties
 
 A 4-joint Dynamixel arm (AX-12A servos) with a camera on the end-effector looks at a
@@ -87,3 +88,6 @@ depth resolution.
   More than about 5 px means the poses or the photo order do not match the photos.
 - The rectification and disparity code is adapted from
   [PFAS_FinalProject](https://github.com/Sjelle132/PFAS_FinalProject).
+=======
+# Robotics
+>>>>>>> 820c252bd148308dab0f03b36019e2667b7b7bbe
